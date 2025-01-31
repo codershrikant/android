@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Positive Attitude</string>
+    <string name="positive_attitude1">आपका दृष्टिकोण आपकी दिशा निर्धारित करता है।</string>
+    <string name="positive_attitude2">सकारात्मक रहें, कड़ी मेहनत करें और इसे पूरा करें।</string>
+    <string name="positive_attitude3">" सकारात्मक मानसिकता सकारात्मक चीजें लाती है।"</string>
+    <string name="positive_attitude4">आप सब कुछ नियंत्रित नहीं कर सकते, लेकिन आप अपने दृष्टिकोण को नियंत्रित कर सकते हैं।</string>
+    <string name="positive_attitude5">जीवन में कठिनाइयाँ हमें बेहतर बनाने के लिए होती हैं, कड़वा बनाने के लिए नहीं।</string>
+    <string name="positive_attitude6">हर दिन आपके जीवन को बदलने का एक नया अवसर है।</string>
+    <string name="positive_attitude7">अपने दिमाग को हर स्थिति में अच्छाई देखने के लिए प्रशिक्षित करें।</string>
+    <string name="positive_attitude8">आपकी एकमात्र सीमा है अपनी मानसिकता को पहचानें।</string>
+    <string name="positive_attitude9">वह ऊर्जा बनें जिसे आप आकर्षित करना चाहते हैं।</string>
+    <string name="positive_attitude10">सही दृष्टिकोण के साथ बाधाओं को अवसरों में बदलें।</string>
+</resources>
